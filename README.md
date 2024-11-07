@@ -1,5 +1,5 @@
 # EdgeFace
-Face Recognition on the Edge
+**Face Recognition on the Edge:**
 This repository provides a complete solution for AI based real-time Face Recognition on edge devices.
 
 ## Edge Devices
